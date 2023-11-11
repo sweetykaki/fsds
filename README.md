@@ -1,6 +1,7 @@
 # CSV处理
 ## 1.显示列名
 > df.columns.to_list() #把列名转换为list
+'''
 ## 2.查看信息，了解列表
 df.describe()
 df.info()
